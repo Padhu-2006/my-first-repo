@@ -1,5 +1,0 @@
-Name = padmavathi
-Course = Computer Science
-SUC Code = 2361530119
-Branch = AWDC
-Section = A
